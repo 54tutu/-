@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProject\\ForgeASword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|c:\\unityproject\\forgeasword\\assets\\scripts\\flow\\gameend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\gameend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|C:\\UnityProject\\ForgeASword\\assets\\scripts\\flow\\startgamebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\startgamebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|C:\\UnityProject\\ForgeASword\\assets\\scripts\\flow\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|c:\\unityproject\\forgeasword\\assets\\scripts\\flow\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|C:\\UnityProject\\ForgeASword\\assets\\scripts\\flow\\flowsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\flowsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|C:\\UnityProject\\ForgeASword\\assets\\scripts\\flow\\gameflowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D918603-08A2-4911-C179-4B39B6004FF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flow\\gameflowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEnd.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameEnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\GameEnd.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameEnd.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\GameEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:15:53.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartGameBtn.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\StartGameBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\StartGameBtn.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\StartGameBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\StartGameBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:44:46.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameFlowManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\GameFlowManager.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameFlowManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\GameFlowManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:43:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSystem.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\GameSystem.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\GameSystem.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:38:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowSystem.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\FlowSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\FlowSystem.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\FlowSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\FlowSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:38:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameFlowState.cs",
+              "DocumentMoniker": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameFlowState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Flow\\GameFlowState.cs",
+              "ToolTip": "C:\\UnityProject\\ForgeASword\\Assets\\Scripts\\Flow\\GameFlowState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Flow\\GameFlowState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:38:05.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
